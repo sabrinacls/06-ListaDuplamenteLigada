@@ -192,7 +192,7 @@ void excluirUltimoElemento()
 		cout << "Lista vazia \n";
 		return;
 	}
-
+	
 	NO* aux = ultimo;
 
 	if (primeiro == ultimo) {
